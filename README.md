@@ -1,2 +1,4 @@
 # rave-banana
-If landing page is made then name and email can be taken 
+AS AN ownwer of a buissiness 
+I WANT to collect peoples contact information 
+SO THAT I can contact them
