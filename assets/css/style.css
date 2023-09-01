@@ -1,3 +1,71 @@
-body {
-    background-color: blue;
+/* aligned my h1 element to be centered in the page */
+ h1{
+text-align:center ;
+}
+#bluebird {
+background-color: beige;
+font-display: lato, sans serif, arial, ;
+}
+/* used to color text of Rhett's Landing Page*/
+.hipposplash {
+    color: #2a1103; ;
+}
+/* accessable navigation bar*/
+nav {
+    align-content: right;
+text-align: right;
+ color: white;
+ background-color: #054b34;
+ font-display: lato, sans serif, arial
+}
+
+/*used to center image*/
+img {
+  margin-left: auto;
+  margin-right: auto;
+  padding-bottom: 100px;
+  display:block
+
+  
+}
+/* All things footer color, font style , background color etc */
+footer {
+    background-color: #054b34;
+    font-display: lato, sans serif, arial;
+    color: white;
+    font-size: medium;
+    text-align: center;
+    margin-top: 00px;
+    margin-bottom: 100px;
+    font-style: oblique;
+
+}
+/*button with "send" as the message*/
+button {
+  color: white;
+   border: #4b1f05;
+   background-color: #4b1f05;
+  align-items: center;
+  display: relative;
+  text-align: center;
+  
+}
+/* form section class */
+.bubba {
+text-align: center;
+background-color: bisque;
+padding-top: 50px;
+
+}
+/* <nav> */
+a {
+color: white;
+padding-left: 10px;
+margin-right: 20px;
+font-style: arial, Monaco, Verdana;
+}
+/*helped with the navigation bar*/
+.bluebeard {
+    padding: 10px;
+    background-color: #054b34;
 }
